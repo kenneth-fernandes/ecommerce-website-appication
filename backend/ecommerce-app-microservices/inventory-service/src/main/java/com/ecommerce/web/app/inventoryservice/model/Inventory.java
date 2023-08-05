@@ -1,10 +1,7 @@
 package com.ecommerce.web.app.inventoryservice.model;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 @Entity
 @Table(name = "t_inventory")
@@ -12,6 +9,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@Data
 public class Inventory {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
