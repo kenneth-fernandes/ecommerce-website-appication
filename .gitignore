@@ -3,3 +3,9 @@
 /backend/ecommerce-app-microservices/postgres/
 /backend/ecommerce-app-microservices/postgres/inventory/
 /backend/ecommerce-app-microservices/postgres/order/
+backend/ecommerce-app-microservices/api-gateway/target/
+backend/ecommerce-app-microservices/discovery-server/target/
+backend/ecommerce-app-microservices/inventory-service/target/
+backend/ecommerce-app-microservices/notification-service/target/
+backend/ecommerce-app-microservices/order-service/target/
+backend/ecommerce-app-microservices/product-service/target/
