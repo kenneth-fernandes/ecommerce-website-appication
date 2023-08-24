@@ -1,0 +1,5 @@
+/backend/ecommerce-app-microservices/keycloak/
+/backend/ecommerce-app-microservices/mysql_keycloak_data/
+/backend/ecommerce-app-microservices/postgres/
+/backend/ecommerce-app-microservices/postgres/inventory/
+/backend/ecommerce-app-microservices/postgres/order/
